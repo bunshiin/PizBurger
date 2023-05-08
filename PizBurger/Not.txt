@@ -1,0 +1,1 @@
+Bu proje "Bilgisayar Genetiği" YouTube kanalının hazırlamış olduğu bir eğitim videosu üzerine geliştirilmiştir. Eklemeler yada çıkarmalar  tasarımda yapılan değişikler tarafımdan yapılmıştır.
